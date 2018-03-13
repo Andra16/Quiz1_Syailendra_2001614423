@@ -1,0 +1,41 @@
+
+
+.menu{
+	top: 30%;
+	width: 100%;
+	height: auto;
+	color: white;
+	position: fixed;
+
+}
+
+
+
+.menu li{
+	margin: 0;
+	text-decoration: none;
+	display: inline;
+	padding-right: 1%;
+	font-size: 200%
+}
+
+
+.bar{
+	background-image: url("car.jpg");
+    height: 150px; 
+    background-position: center;
+    background-repeat: no-repeat;
+	
+
+}
+
+a:link, a:visited {
+    color: red;
+    
+}
+
+
+a:hover, a:active {
+    background-color: blue;
+}
+
